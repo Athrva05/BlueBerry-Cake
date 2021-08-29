@@ -11,9 +11,9 @@
  var nowTakeOutTheLid;
  var takeAToothPickNowAndPutItInsidetheCake;
  var ifTheToothPickComesOutwithNoMaterialThenThinkThatYourCakeIsReadyFor,elseItNeedsToBeBakedForABitMoreTime;
- var nowTakeSomeWaterInABowlAndPutSomePowderedSugarInIt;
+ var nowTakeSomeWaterInABowlAndPutSomePowderedSugar,BlueBerryCrushInIt;
  var nowtakeAThreadAndCutTheCakeInto3EqualPieces;
- var takeTheAboveMadeOfWaterAndSugarAndApplyItOnTheTopEveryLayer;
+ var takeTheAboveMadeOfWater,Sugar,BlueBerryCrushAndApplyItOnTheTopOfEveryLayer;
  var nowIfYouLikeForIcingThenFollowTheseSteps;
  var nowTake2BowlTheFirstBowlShouldBeSuchBigThatTheSecondBowlShouldPerfectlyFitInIt;
  var nowPut14to15IceCubesIntoFirstBowl;
